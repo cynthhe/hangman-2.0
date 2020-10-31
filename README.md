@@ -1,2 +1,2 @@
 # Hangman 2.0 :man:
-a word guessing game
+This program will get a random word from an enumerated list and then let the user guess letters until they get the word correct, run out of guesses, or solve the word. A unique characteristic of *Hangman 2.0* is that the user must specify a subset of the available spaces to check. So, for each guess, the user provides the letter to guess along with the spaces he/she wants to check.
